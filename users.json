@@ -20,6 +20,69 @@
       "password": "pass789",
       "url_profile": "https://picsum.photos/id/91/400/500",
       "short_bio": "Đam mê dữ liệu và trí tuệ nhân tạo."
+    },
+    {
+      "id": 4,
+      "uname": "phamthid",
+      "password": "d12345",
+      "url_profile": "https://picsum.photos/id/1011/400/500",
+      "short_bio": "Thích chụp ảnh phong cảnh và đi bộ đường dài."
+    },
+    {
+      "id": 5,
+      "uname": "hoangvane",
+      "password": "e12345",
+      "url_profile": "https://picsum.photos/id/1012/400/500",
+      "short_bio": "Lập trình viên backend, mê cà phê."
+    },
+    {
+      "id": 6,
+      "uname": "vuthif",
+      "password": "f12345",
+      "url_profile": "https://picsum.photos/id/1025/400/500",
+      "short_bio": "Yêu động vật, đặc biệt là chó."
+    },
+    {
+      "id": 7,
+      "uname": "dangvang",
+      "password": "g12345",
+      "url_profile": "https://picsum.photos/id/1027/400/500",
+      "short_bio": "Thích âm nhạc và chơi guitar."
+    },
+    {
+      "id": 8,
+      "uname": "buithih",
+      "password": "h12345",
+      "url_profile": "https://picsum.photos/id/1035/400/500",
+      "short_bio": "Đam mê nấu ăn và khám phá ẩm thực."
+    },
+    {
+      "id": 9,
+      "uname": "ngovani",
+      "password": "i12345",
+      "url_profile": "https://picsum.photos/id/1040/400/500",
+      "short_bio": "Học khoa học dữ liệu, thích đọc sách."
+    },
+    {
+      "id": 10,
+      "uname": "dovank",
+      "password": "k12345",
+      "url_profile": "https://picsum.photos/id/1043/400/500",
+      "short_bio": "Thích du lịch bụi và nhiếp ảnh đường phố."
+    },
+    {
+      "id": 11,
+      "uname": "lythil",
+      "password": "l12345",
+      "url_profile": "https://picsum.photos/id/1044/400/500",
+      "short_bio": "Thiết kế đồ họa, yêu màu sắc."
+    },
+    {
+      "id": 12,
+      "uname": "truongvanm",
+      "password": "m12345",
+      "url_profile": "https://picsum.photos/id/1050/400/500",
+      "short_bio": "Chơi thể thao và thích leo núi."
     }
   ]
 }
