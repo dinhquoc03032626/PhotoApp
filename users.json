@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "nguyenvana",
+      "password": "123456",
+      "url_profile": "https://picsum.photos/id/64/400/500",
+      "short_bio": "Sinh viên UEH, thích lập trình Android."
+    },
+    {
+      "id": 2,
+      "uname": "tranthib",
+      "password": "abc123",
+      "url_profile": "https://picsum.photos/id/65/400/500",
+      "short_bio": "Yêu thích thiết kế UI và du lịch."
+    },
+    {
+      "id": 3,
+      "uname": "levanc",
+      "password": "pass789",
+      "url_profile": "https://picsum.photos/id/91/400/500",
+      "short_bio": "Đam mê dữ liệu và trí tuệ nhân tạo."
+    }
+  ]
+}
